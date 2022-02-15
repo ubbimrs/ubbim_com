@@ -72,7 +72,7 @@
     "imageResize": false,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "970sxjx0wz",
+    "mbrsiteDomain": "z4wqnnbqqn",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -80,7 +80,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "modified": "2021-03-31T03:32:25.761Z",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
